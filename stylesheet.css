@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+    background-color: rgb(202, 202, 231);
+}
+h1{
+    font-family: "URW Chancery",cursive;
+    font-style: italic;
+    font-size:45px;
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    font-size: 26px;
+        font-style: italic;
+    font-family: fantasy;
+    line-height: 1.5em;
+    color:rgb(141, 82, 5);
+
+}
+.kogo{
+    position:relative;
+    float:left;
+    width:25%;
+
+}
